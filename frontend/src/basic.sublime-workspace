@@ -1,0 +1,666 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"grid",
+				"grid-column"
+			],
+			[
+				"grid-templ",
+				"grid-template-rows"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"Traf",
+				"Trafficking"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/adityaagrawal/ComputingClubSimulation/backend/index.js",
+			"settings":
+			{
+				"buffer_size": 171,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					8,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHUAAAAAAAAAdQAAAAAAAAC5AQAAYXBwLmdldCgnL2FwaS9jb25uZWN0JywgKHJlcSwgcmVzKSA9PiB7CiAgY29ubmVjdGlvbnMucHVzaChyZXEuaGVhZGVyc1sneC1mb3J3YXJkZWQtZm9yJ10gfHwgcmVxLnNvY2tldC5yZW1vdGVBZGRyZXNzKQp9KQoKYXBwLmdldCgnL2FwaS9rZWVwLWFsaXZlJywgKHJlcSwgcmVzKSA9PiB7Cgp9CgphcHAuZ2V0KCcvYXBpL2Rpc2Nvbm5lY3QnLCAocmVxLCByZXMpID0+IHsKCn0pCgoKLy9HYW1lIEFQSQphcHAuZ2V0KCcvc3VibWl0JywgKHJlcSwgcmVzKSA9PiB7CiAgY29uc29sZS5sb2cocmVxKQogIGNvbnNvbGUubG9nKHJlcykKfSkKCmFwcC5nZXQoJy90aW1lcicsIChyZXEsIHJlcykgPT4gewogIGNvbnNvbGUubG9nKHJlcSkKICBjb25zb2xlLmxvZyhyZXMpCn0pCgovL0FkbWluIEFQSQphcHAuZ2V0KCcvYXBpL2FkbWluL2tpY2snLCAocmVxLCByZXMpID0+IHsKCn0p",
+					"AQAAAAAAAAABAAAALgIAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					6,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+					},
+					"BgAAAHQAAAAAAAAAdAAAAAAAAAABAAAACmMAAAAAAAAAYwAAAAAAAAARAAAALy9Db25uZWN0aW9ucyBBUEliAAAAAAAAAGIAAAAAAAAAAQAAAAphAAAAAAAAAGEAAAAAAAAAAQAAAApMAAAAAAAAAEwAAAAAAAAAFQAAAHZhciBjb25uZWN0aW9ucyA9IFtdO0sAAAAAAAAASwAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAdQAAAAAAAAB1AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEoAAAAAAAAASgAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAASwAAAAAAAABLAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "App.js",
+			"settings":
+			{
+				"buffer_size": 1336,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					17,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAQDAAAAAAAABAMAAAAAAAD9AQAAICB1c2VFZmZlY3QoKCkgPT4gewogICAgbGV0IHJlcXVlc3QgPSBYTUxIdHRwUmVxdWVzdCgpCiAgICByZXF1ZXN0Lm9wZW4oIkdFVCIsICJsb2NhbGhvc3Q6MzAwMS9hcGkvY29ubmVjdCIsIHRydWUpCiAgICByZXF1ZXN0LnNlbmQoKQogICAgcmVxdWVzdC5vbnJlYWR5c3RhdGVjaGFuZ2UgPSAoKSA9PiB7CiAgICAgIGlmIChyZXF1ZXN0LnJlYWR5U3RhdGUgPT0gWE1MSHR0cFJlcXVlc3QuRE9ORSkgewogICAgICAgIGlmICghcmVxdWVzdC5yZXNwb25zZVRleHQgPT0gIk9LIil7CiAgICAgICAgICAgIC8vUE9WIEJyb3dzZXIgQml0ZXMgQmFjawoKICAgICAgICAgICAgLy9DcmFzaCBzaXRlCiAgICAgICAgICAgIHR4dCA9ICJhIgogICAgICAgICAgICB3aGlsZSgxKXsKICAgICAgICAgICAgICBhbGVydCgiTk8gSSdNIE5PVCBPSyIpCiAgICAgICAgICAgICAgdHh0ICs9ICJhIgogICAgICAgICAgICB9CiAgICAgICAgICAgIHR4dCArPSAiaCIKICAgICAgICB9CiAgICAgIH0KICAgIH0KCiAgfSk",
+					"AQAAAAAAAAABAAAAAQUAAAAAAAAEAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+					},
+					"AQAAAAMDAAAAAAAAAwMAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAABAMAAAAAAAAEAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+					},
+					"AQAAABgFAAAAAAAAGAUAAAAAAABIAAAAICAgICAgPEJ1dHRvbiBvbkNsaWNrPXsoKSA9PiB7CgogICAgICB9fT4KICAgICAgICBTdWJtaXQKICAgICAgPC9CdXR0b24+",
+					"AQAAAAAAAAABAAAAYAUAAAAAAAAYBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"left_delete",
+					null,
+					"AQAAABcFAAAAAAAAFwUAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAGAUAAAAAAAAYBQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"insert",
+					{
+						"characters": "\n\t<>"
+					},
+					"BQAAACkDAAAAAAAAKgMAAAAAAAAAAAAAKgMAAAAAAAAuAwAAAAAAAAAAAAAuAwAAAAAAADADAAAAAAAAAAAAADADAAAAAAAAMQMAAAAAAAAAAAAAMQMAAAAAAAAyAwAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAKQMAAAAAAAApAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					94,
+					1,
+					"insert",
+					{
+						"characters": "Text"
+					},
+					"BAAAADEDAAAAAAAAMgMAAAAAAAAAAAAAMgMAAAAAAAAzAwAAAAAAAAAAAAAzAwAAAAAAADQDAAAAAAAAAAAAADQDAAAAAAAANQMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQMAAAAAAAAxAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					4,
+					"left_delete",
+					null,
+					"BAAAADQDAAAAAAAANAMAAAAAAAABAAAAdDMDAAAAAAAAMwMAAAAAAAABAAAAeDIDAAAAAAAAMgMAAAAAAAABAAAAZTEDAAAAAAAAMQMAAAAAAAABAAAAVA",
+					"AQAAAAAAAAABAAAANQMAAAAAAAA1AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					96,
+					1,
+					"insert",
+					{
+						"characters": "p"
+					},
+					"AQAAADEDAAAAAAAAMgMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMQMAAAAAAAAxAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAADMDAAAAAAAANAMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwMAAAAAAAAzAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"left_delete",
+					null,
+					"AQAAADMDAAAAAAAAMwMAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAANAMAAAAAAAA0AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"insert",
+					{
+						"characters": "<?>"
+					},
+					"AwAAADMDAAAAAAAANAMAAAAAAAAAAAAANAMAAAAAAAA1AwAAAAAAAAAAAAA1AwAAAAAAADYDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwMAAAAAAAAzAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					2,
+					"left_delete",
+					null,
+					"AgAAADUDAAAAAAAANQMAAAAAAAABAAAAPjQDAAAAAAAANAMAAAAAAAABAAAAPw",
+					"AQAAAAAAAAABAAAANgMAAAAAAAA2AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					102,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAADQDAAAAAAAANQMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAMAAAAAAAA0AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					1,
+					"left_delete",
+					null,
+					"AQAAADQDAAAAAAAANAMAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAANQMAAAAAAAA1AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					104,
+					1,
+					"insert",
+					{
+						"characters": "/p>"
+					},
+					"AwAAADQDAAAAAAAANQMAAAAAAAAAAAAANQMAAAAAAAA2AwAAAAAAAAAAAAA2AwAAAAAAADcDAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANAMAAAAAAAA0AwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					106,
+					1,
+					"insert",
+					{
+						"characters": "Test"
+					},
+					"BAAAADMDAAAAAAAANAMAAAAAAAAAAAAANAMAAAAAAAA1AwAAAAAAAAAAAAA1AwAAAAAAADYDAAAAAAAAAAAAADYDAAAAAAAANwMAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAMwMAAAAAAAAzAwAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					108,
+					4,
+					"left_delete",
+					null,
+					"BAAAADYDAAAAAAAANgMAAAAAAAABAAAAdDUDAAAAAAAANQMAAAAAAAABAAAAczQDAAAAAAAANAMAAAAAAAABAAAAZTMDAAAAAAAAMwMAAAAAAAABAAAAVA",
+					"AQAAAAAAAAABAAAANwMAAAAAAAA3AwAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		},
+		{
+			"file": "/Users/adityaagrawal/ComputingClubSimulation/cck.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/adityaagrawal/ComputingClubSimulation/frontend/.gitignore",
+			"settings":
+			{
+				"buffer_size": 328,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					3,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAADYBAAAAAAAANwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANgEAAAAAAAA2AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "."
+					},
+					"AQAAADcBAAAAAAAAOAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwEAAAAAAAA3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"left_delete",
+					null,
+					"AQAAADcBAAAAAAAANwEAAAAAAAABAAAALg",
+					"AQAAAAAAAAABAAAAOAEAAAAAAAA4AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					6,
+					1,
+					"insert",
+					{
+						"characters": "cck."
+					},
+					"BAAAADcBAAAAAAAAOAEAAAAAAAAAAAAAOAEAAAAAAAA5AQAAAAAAAAAAAAA5AQAAAAAAADoBAAAAAAAAAAAAADoBAAAAAAAAOwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwEAAAAAAAA3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					7,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Delete to Hard BOL.sublime-macro"
+					},
+					"AQAAADcBAAAAAAAANwEAAAAAAAAEAAAAY2NrLg",
+					"AQAAAAAAAAABAAAAOwEAAAAAAAA7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					8,
+					1,
+					"insert",
+					{
+						"characters": "*.sublime_"
+					},
+					"CgAAADcBAAAAAAAAOAEAAAAAAAAAAAAAOAEAAAAAAAA5AQAAAAAAAAAAAAA5AQAAAAAAADoBAAAAAAAAAAAAADoBAAAAAAAAOwEAAAAAAAAAAAAAOwEAAAAAAAA8AQAAAAAAAAAAAAA8AQAAAAAAAD0BAAAAAAAAAAAAAD0BAAAAAAAAPgEAAAAAAAAAAAAAPgEAAAAAAAA/AQAAAAAAAAAAAAA/AQAAAAAAAEABAAAAAAAAAAAAAEABAAAAAAAAQQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAANwEAAAAAAAA3AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					9,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEABAAAAAAAAQAEAAAAAAAABAAAAXw",
+					"AQAAAAAAAAABAAAAQQEAAAAAAABBAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					10,
+					1,
+					"insert",
+					{
+						"characters": "-project"
+					},
+					"CAAAAEABAAAAAAAAQQEAAAAAAAAAAAAAQQEAAAAAAABCAQAAAAAAAAAAAABCAQAAAAAAAEMBAAAAAAAAAAAAAEMBAAAAAAAARAEAAAAAAAAAAAAARAEAAAAAAABFAQAAAAAAAAAAAABFAQAAAAAAAEYBAAAAAAAAAAAAAEYBAAAAAAAARwEAAAAAAAAAAAAARwEAAAAAAABIAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAQAEAAAAAAABAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					11,
+					1,
+					"insert",
+					{
+						"characters": "\n*."
+					},
+					"AwAAAEgBAAAAAAAASQEAAAAAAAAAAAAASQEAAAAAAABKAQAAAAAAAAAAAABKAQAAAAAAAEsBAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASAEAAAAAAABIAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					12,
+					3,
+					"left_delete",
+					null,
+					"AwAAAEoBAAAAAAAASgEAAAAAAAABAAAALkkBAAAAAAAASQEAAAAAAAABAAAAKkgBAAAAAAAASAEAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAASwEAAAAAAABLAQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"comment",
+				"Toggle Block Comment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/adityaagrawal/ComputingClubSimulation",
+		"/Users/adityaagrawal/ComputingClubSimulation/backend",
+		"/Users/adityaagrawal/ComputingClubSimulation/frontend",
+		"/Users/adityaagrawal/ComputingClubSimulation/frontend/public",
+		"/Users/adityaagrawal/ComputingClubSimulation/frontend/src",
+		"/Users/adityaagrawal/ComputingClubSimulation/frontend/src/components"
+	],
+	"file_history":
+	[
+		"/Users/adityaagrawal/Music-and-Dementia/backend/server.py",
+		"/Users/adityaagrawal/ComputingClubSimulation/computingclub/src/index.css",
+		"/Users/adityaagrawal/ComputingClubSimulation/computingclub/src/components/Terminal.css",
+		"/Users/adityaagrawal/ComputingClubSimulation/computingclub/src/components/Editor.css",
+		"/Users/adityaagrawal/ComputingClubSimulation/computingclub/src/components/Editor.js",
+		"/Users/adityaagrawal/ComputingClubSimulation/computingclub/src/components/Testcases.css",
+		"/Users/adityaagrawal/ComputingClubSimulation/computingclub/src/components/Terminal.js",
+		"/Users/adityaagrawal/ComputingClubSimulation/computingclub/src/components/Testcases.js",
+		"/Users/adityaagrawal/ComputingClubSimulation/computingclub/src/App.js",
+		"/Users/adityaagrawal/BlueDragonApp/pages/TextPage.js",
+		"/Users/adityaagrawal/BlueDragonApp/pages/TestVid.js",
+		"/Users/adityaagrawal/BlueDragonApp/pages/testVid.js"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/adityaagrawal/ComputingClubSimulation/backend/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 171,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								171,
+								171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "App.js",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1336,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1030,
+								1030
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSX.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/adityaagrawal/ComputingClubSimulation/cck.sublime-project",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSX.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/adityaagrawal/ComputingClubSimulation/frontend/.gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								328,
+								328
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "/Users/adityaagrawal/ComputingClubSimulation/cck.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 352.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
