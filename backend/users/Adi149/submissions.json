@@ -1,0 +1,16 @@
+{
+	"q1": {
+		"subtasks": [0],
+		"language": "python3",
+		"runtime": 0.00,
+	},
+	"q2": {
+		"subtasks": [],
+		"language": "C++",
+		"build_log": "Failed to compile",
+	},
+	"q3": {
+		"subtasks": [0, 2, 3],
+		"language": "python",
+	}
+}
